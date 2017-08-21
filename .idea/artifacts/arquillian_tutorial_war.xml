@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="arquillian-tutorial:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="arquillian-tutorial.war">
+      <element id="artifact" artifact-name="arquillian-tutorial:war exploded" />
+    </root>
+  </artifact>
+</component>
